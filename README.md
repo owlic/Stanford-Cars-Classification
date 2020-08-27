@@ -1,8 +1,8 @@
 # Stanford Cars Classification
 
 
-## Overview
-Image classification (196 types of cars) by using deep residual network.
+## Introduction
+This repositiry is about image classification (196 types of cars) by using deep residual network.
 
 All resources are downloaded from http://ai.stanford.edu/~jkrause/cars/car_dataset.html.
 
